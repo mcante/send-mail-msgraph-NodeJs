@@ -1,0 +1,16 @@
+{
+  "name": "sendmail",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@azure/msal-node": "^1.17.1",
+    "@microsoft/microsoft-graph-client": "^3.0.5",
+    "isomorphic-fetch": "^3.0.0"
+  }
+}
